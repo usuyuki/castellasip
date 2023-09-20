@@ -1,4 +1,4 @@
-# undersip
+# castellasip(かすてらしっぷ)
 
 Ebitengine製の小さなゲーム
 
